@@ -11,5 +11,16 @@ games.sin88.biz
 ##propellerads##
 thaythuoccuaban.com###chiase
 thaythuoccuaban.com###dautrang
+thaythuoccuaban.com###livechat-eye-catcher-img > img
 fb88cup.com
 ##fb88##
+xvideos.com###content > div.mozaique:first-child > div.thumb-block.thumb-ad-red.bg-gradient-black:nth-child(18)
+tvhai.org###float_content_right > a > img
+||phim18hd.org/fb88.mp4$domain=lb.topphimhd.info
+topphim18.net###lightbox > p:first-child > a
+topphim18.net###lightbox > p:last-child
+topphim18.net###overlay
+topphim18.net###pc-catfish-1 > a > img
+topphim18.net###pc-top-banner-1
+topphim18.net###quang-cao > div.float-ck
+topphim18.net###sidebar > iframe:nth-child(4)
