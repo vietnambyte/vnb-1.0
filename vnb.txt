@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Homepage: https://nmtrung.com/fmsf-2/
+! Homepage: https://github.com/vietnambyte/vnb-1.0/raw/main/vnb.txt
 ! Title: VNB 1
 ! Expires: 1 days
 ! Version: 2.5
